@@ -4,4 +4,4 @@ Have a look at the SpotifyToTidal.ipynb if you are interested playing around wit
 
 Requirements:
 - A spotify and a tidal account
-- python with soptipy and tidal-api
+- python with spotipy and tidal-api
